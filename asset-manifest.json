@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/cient-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/cient-app/static/js/main.ca29b0ad.chunk.js",
-    "main.js.map": "/cient-app/static/js/main.ca29b0ad.chunk.js.map",
-    "runtime-main.js": "/cient-app/static/js/runtime-main.f56c1852.js",
-    "runtime-main.js.map": "/cient-app/static/js/runtime-main.f56c1852.js.map",
-    "static/js/2.643e86f1.chunk.js": "/cient-app/static/js/2.643e86f1.chunk.js",
-    "static/js/2.643e86f1.chunk.js.map": "/cient-app/static/js/2.643e86f1.chunk.js.map",
-    "index.html": "/cient-app/index.html",
-    "precache-manifest.b1a2ccae16fe277e8abeb20128fec7b7.js": "/cient-app/precache-manifest.b1a2ccae16fe277e8abeb20128fec7b7.js",
-    "service-worker.js": "/cient-app/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/cient-app/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.643e86f1.chunk.js.LICENSE.txt": "/cient-app/static/js/2.643e86f1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/cient-app/static/media/logo.5d5d9eef.svg",
-    "static/media/profile.jpg": "/cient-app/static/media/profile.5c0fbf30.jpg"
+    "main.css": "/client-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/client-app/static/js/main.0ac0801b.chunk.js",
+    "main.js.map": "/client-app/static/js/main.0ac0801b.chunk.js.map",
+    "runtime-main.js": "/client-app/static/js/runtime-main.319637fc.js",
+    "runtime-main.js.map": "/client-app/static/js/runtime-main.319637fc.js.map",
+    "static/js/2.643e86f1.chunk.js": "/client-app/static/js/2.643e86f1.chunk.js",
+    "static/js/2.643e86f1.chunk.js.map": "/client-app/static/js/2.643e86f1.chunk.js.map",
+    "index.html": "/client-app/index.html",
+    "precache-manifest.425b7713fc51ec1bf0087e4486d2337b.js": "/client-app/precache-manifest.425b7713fc51ec1bf0087e4486d2337b.js",
+    "service-worker.js": "/client-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/client-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.643e86f1.chunk.js.LICENSE.txt": "/client-app/static/js/2.643e86f1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/client-app/static/media/logo.5d5d9eef.svg",
+    "static/media/profile.jpg": "/client-app/static/media/profile.5c0fbf30.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f56c1852.js",
+    "static/js/runtime-main.319637fc.js",
     "static/js/2.643e86f1.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ca29b0ad.chunk.js"
+    "static/js/main.0ac0801b.chunk.js"
   ]
 }
